@@ -14,7 +14,8 @@ Where:
 	iter_max: maximum number of tries to check non-overlaps (more is better, but takes more time)
 	
 For example:
-
+~~~~
 R = [1,2,3,2,2,1]
 square_edge = 50
 points_array = Random_Circle_generator(R, square_edge, 2000)
+~~~~
